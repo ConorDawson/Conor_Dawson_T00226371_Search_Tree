@@ -51,3 +51,6 @@ This choice was made after many failed attemptds created in the roughwork file l
 
 ---
 
+## Author
+**Conor Dawson**  
+BSc (Hons) in Software Development 
